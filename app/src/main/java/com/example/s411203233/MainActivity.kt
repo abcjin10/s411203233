@@ -109,6 +109,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
                 fontSize = 18.sp,
                 modifier = Modifier.padding(bottom = 8.dp)
             )
+
             Text(
                 text = "您的成績 0 分",
                 fontSize = 18.sp,
